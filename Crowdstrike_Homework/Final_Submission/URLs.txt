@@ -1,0 +1,7 @@
+FTP://localhost:8020/
+FTP://localhost:8021/
+SSH://localhost:8022/
+SMTP://localhost:8025/
+http://localhost:8080/
+https://localhost:8443/
+http://Idontexiststill:8080/

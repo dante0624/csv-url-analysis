@@ -1,0 +1,7 @@
+../data/file1.csv
+../data/file2.csv
+../data/file3.csv
+../data/file4.csv
+../data/file5_bad.csv
+../data/file9_bad.csv
+../data/iDontExist.csv
